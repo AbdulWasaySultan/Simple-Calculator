@@ -1,4 +1,4 @@
-/*import inquirer from "inquirer";
+import inquirer from "inquirer";
 
 const answer = await inquirer.prompt([
   { message: "Enter first number", type: "number", name: "firstNumber" },
@@ -22,5 +22,5 @@ if (answer.operator === "Addition") {
 } else {
   console.log("Enter a valid operator");
 }
-*/
+
 console.log("Hi! faizan bhai");
